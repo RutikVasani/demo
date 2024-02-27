@@ -1,0 +1,29 @@
+.body {
+    justify-content: space-around;
+}
+
+
+.box {
+    background-color: #1079AE;
+    padding-right: 50px;
+    margin: 50px 50px 50px 50px;
+    padding: 20px;
+    width: 20%;
+    border-radius: 5%;
+    justify-content: space-between;
+    display: flex;
+    text-align: center;
+}
+
+.btn {
+    color: green;
+    border-radius: 5px;
+
+}
+
+.btn-2 {
+    color: red;
+    border-radius: 5px;
+    justify-content: center;
+
+}
